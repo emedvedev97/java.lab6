@@ -1,0 +1,14 @@
+15:59:38.428 DEBUG ru.medvedev.labxml.App - Загрузка файла XML
+15:59:38.463 DEBUG ru.medvedev.labxml.XmlDOM - XML соответствует схеме
+15:59:38.476 DEBUG ru.medvedev.labxml.XmlDOM - XML DOM запуск
+15:59:38.505 DEBUG ru.medvedev.labxml.XmlDOM - XML DOM записан
+15:59:38.505 DEBUG ru.medvedev.labxml.XmlDOM - XML DOM завершние
+15:59:38.505 DEBUG ru.medvedev.labxml.XmlXPath - Парсинг XML XPATH
+15:59:38.516 DEBUG ru.medvedev.labxml.XmlXPath - Вывод XML XPATH: страны, чья площадь больше 2млн км^2
+15:59:38.517 DEBUG ru.medvedev.labxml.XmlXPath - XML XPATH завершние
+15:59:38.517 DEBUG ru.medvedev.labxml.XmlSAX - Парсинг XML SAX
+15:59:38.521 DEBUG ru.medvedev.labxml.XmlSAX - Вывод XML SAX
+15:59:38.522 DEBUG ru.medvedev.labxml.XmlJAXB - Счтывание XML JAXB
+15:59:38.613 DEBUG ru.medvedev.labxml.XmlJAXB - Подготовка к записи XML JAXB
+15:59:38.622 DEBUG ru.medvedev.labxml.XmlJAXB - Запись XML JAXB
+15:59:38.625 DEBUG ru.medvedev.labxml.XmlJAXB - Вывод записанного XML JAXB

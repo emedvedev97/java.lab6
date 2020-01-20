@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<planet
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns='https://rsatu.ru/continents'
+    xsi:schemaLocation='https://rsatu.ru/continents file:/home/emedvedev/Java%20лабы/Lab6/src/main/resources/world.xsd'>
+    <name>Земля</name>
+    <area>510.1</area>
+    <continent>
+        <name>Азия</name>
+        <area>43.4</area>
+        <country>
+            <name>Азербайджан</name>
+            <area>0.08</area>
+        </country>
+        <country>
+            <name>Армения</name>
+            <area>0.02</area>
+        </country>
+    </continent>
+    <continent>
+        <name>Африка</name>
+        <area>30.3</area>
+        <country>
+            <name>Алжир</name>
+            <area>2.3</area>
+        </country>
+        <country>
+            <name>Ангола</name>
+            <area>1.2</area>
+        </country>
+    </continent>
+    <continent>
+        <name>Северная Америка</name>
+        <area>24.71</area>
+        <country>
+            <name>Канада</name>
+            <area>9.9</area>
+        </country>
+        <country>
+            <name>Мексика</name>
+            <area>1.9</area>
+        </country>
+    </continent>
+    <continent>
+        <name>Южная Америка</name>
+        <area>17.84</area>
+        <country>
+            <name>Аргентина</name>
+            <area>2.7</area>
+        </country>
+        <country>
+            <name>Боливия</name>
+            <area>1</area>
+        </country>
+    </continent>
+    <continent>
+        <name>Антарктида</name>
+        <area>14.1</area>
+    </continent>
+    <continent>
+        <name>Европа</name>
+        <area>10</area>
+        <country>
+            <name>Албания</name>
+            <area>0.02</area>
+        </country>
+        <country>
+            <name>Россия</name>
+            <area>17.1</area>
+        </country>
+    </continent>
+    <continent>
+        <name>Австралия</name>
+        <area>7.66</area>
+        <country>
+            <name>Австралия</name>
+            <area>7.66</area>
+        </country>
+    </continent>
+
+</planet>
